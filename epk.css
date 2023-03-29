@@ -241,15 +241,15 @@ header {
 /* Footer */
 #footer {
   padding: 20px;
-  background-color: rgb(255, 255, 255);
-  color: #000;
+  background-color: #222; /* Background color for About section */
+  color: rgb(255, 255, 255);
 }
 
 .footer-inner {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(255, 255, 255);
+  background-color: #222; /* Background color for About section */
   padding: 20px;
 }
 
